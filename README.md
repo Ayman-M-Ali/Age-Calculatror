@@ -4,11 +4,15 @@ This is a project that I completed as part of Almdrasa.com coding project. The m
 ## Project Overview
 The project was created with:
 
-1- Validate Inputs (Day, Month, Year)
-2- Show Inputs Error If Not Valid
-3- Calculation Age Function
-4- Implementation And Show Result
-5- And Using Keyboard For Accessibility
+• Validate Inputs (Day, Month, Year)
+
+• Show Inputs Error If Not Valid
+
+• Calculation Age Function
+
+• Implementation And Show Result
+
+• And Using Keyboard For Accessibility
 
 ## Technologies Used
 The following technologies were utilized in this project:
